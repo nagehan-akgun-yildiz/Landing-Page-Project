@@ -6,5 +6,4 @@ This project includes:
 
 Thanks to Jonas Schmedtmann’s course on Udemy.
 
-Here is the Omnifood Project : [
-](https://bejewelled-smakager-b9eb67.netlify.app/)
+<a href = "https://bejewelled-smakager-b9eb67.netlify.app/">Here is the Omnifood Project</a>
